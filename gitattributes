@@ -1,0 +1,4 @@
+*.sql linguist-language=SQL
+git add .gitattributes
+git commit -m "Force GitHub to recognize SQL as primary language"
+git push origin main
